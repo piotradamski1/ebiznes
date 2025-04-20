@@ -5,6 +5,7 @@
 :x: 3.5
 
 Kod: ebiznes/python310-ubuntu
+
 Link do Docker Hub: https://hub.docker.com/r/piotr123ek/py310-ubuntu
 
 **Zadanie 2** Scala
