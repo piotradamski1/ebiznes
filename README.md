@@ -33,3 +33,19 @@ Kod: ebiznes/DiscordMessenger
 :x: 4
 
 Kod: ebiznes/echo-gorm-products
+
+**Zadanie 5** Frontend
+
+:white_check_mark: 3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej [commit](https://github.com/piotradamski1/ebiznes/commit/8d3d3e3cdd7be8711bae9b2babee3c397b300014)
+
+:x: 3.5
+
+Kod: ebiznes/frontend-react/frontend
+
+**Zadanie 6** Testy
+
+:white_check_mark: 3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala) [commit](https://github.com/piotradamski1/ebiznes/commit/af79516bb71666c26e00f41334ebf7cacbd170f7)
+
+:x: 3.5
+
+Kod: ebiznes/frontend-react/frontend/cypress/e2e
