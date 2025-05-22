@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=piotradamski1_ebiznes&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=piotradamski1_ebiznes)
+
 **Zadanie 1** Docker
 
 :white_check_mark: 3.0 obraz ubuntu z Pythonem w wersji 3.10 [commit](https://github.com/piotradamski1/ebiznes/commit/631874e46942d4c10ecc4b26e909bfdaf00cfc27)
@@ -49,3 +51,16 @@ Kod: ebiznes/frontend-react/frontend
 :x: 3.5
 
 Kod: ebiznes/frontend-react/frontend/cypress/e2e
+
+**Zadanie 7** Sonar
+
+:white_check_mark: 3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita [commit](https://github.com/piotradamski1/ebiznes/commit/239c50a28795c3a625b63efdc8c4a309ea7799d7)
+
+:white_check_mark: 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze [commit](https://github.com/piotradamski1/ebiznes/commit/239c50a28795c3a625b63efdc8c4a309ea7799d7)
+
+:x: 4.0
+
+Kod: ebiznes/echo-gorm-products
+ebiznes/.git/hooks/pre-push
+
+https://sonarcloud.io/project/overview?id=piotradamski1_ebiznes
