@@ -1,0 +1,7 @@
+organization=piotradamski1
+projectKey=ebiznes-go-server
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.63733
+dashboardUrl=https://sonarcloud.io/dashboard?id=ebiznes-go-server
+ceTaskId=AZb50YRSsdHqaUmNKLEF
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZb50YRSsdHqaUmNKLEF
